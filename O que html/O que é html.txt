@@ -1,0 +1,19 @@
+O que é HTML?
+
+"HYPERTEXT MARKUP LANGUAGE"
+
+Traduzido para o portugues:
+
+Linguagem Marcação Hiper texto
+
+Por exemplo na linguagem html, usaremos semântica sintax.
+No Markup usaremos muito para marcar os textos.
+O Hipertexto consiguiremos colocar links onde iremos 
+clicar  para acessar outo texo ou paginas.
+
+
+
+
+
+
+

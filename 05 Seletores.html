@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <style>
+        #texto1 {
+            color: rgb(197, 18, 48);
+            margin: 3rem;
+            
+        }
+        .sp
+        {
+            background: yellowgreen;
+        }
+        .sp3
+        {
+            background: rgb(170, 24, 109);
+        }
+        </style>
+    </head>
+    <body> 
+        <p id="texto1" class="sp">PRIMEIRO TESTE DO GITHUB</p>
+        <p id="texto2" class="sp">PRIMEIRO TESTE DO GITHUB</p>
+        <p id="texto3" class="sp3">PRIMEIRO TESTE DO GITHUB</p>
+        <p id="texto4" class="sp">PRIMEIRO TESTE DO GITHUB</p>
+        <p id="texto5" class="sp">PRIMEIRO TESTE DO GITHUB</p>
+    </body>
+    <script>
+        window.onload = function(){
+            console.log('XIXI')
+            alert('vai corinthians')
+
+            
+            const myTimeout = setTimeout(mudandotexto, 1000);
+        }
+
+
+        
+
+        function mudandotexto() {
+            var txt = document.getElementById('texto1')
+            txt.innerHTML = 'COCO VEIO'
+        }
+    </script>
+    </html>
